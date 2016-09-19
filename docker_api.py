@@ -29,8 +29,8 @@ class DockerOrchestration(object):
         Initialize the grafana connection object necessary to perform any configuration or object manipulation
         :param api_key:
         :param headers:
-        :param grafana_host:
-        :param grafana_port:
+        :param docker_host:
+        :param docker_port:
         :return:
         """
         if not docker_host:
