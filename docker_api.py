@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #######################################################################################################################
-#  This API is to perform various docker configuration operations and visualize the graf on UI.                       #
+#  This API is to perform various docker configuration operations.                                                    #
 #  Usage:                                                                                                             #
 #         import docker_api											                                                  #
 # 	                                                                                                                  #
